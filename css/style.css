@@ -126,8 +126,13 @@ pre {
     border: 1px #fff solid;
   }
   
+  .btn-outline:hover {
+    background-color: #a9a9a9;
+
+  }
   .btn:hover {
     transform: scale(0.98);
+
   }
   
   /* Backgrounds & colored buttons */
